@@ -1,3 +1,6 @@
 [submodule "chat-client"]
 	path = chat-client
 	url = https://github.com/nastyayasko/chat-client.git
+[submodule "chat-server"]
+	path = chat-server
+	url = https://github.com/nastyayasko/chat-server.git
