@@ -10,6 +10,6 @@
 
 ## Run client
 
-* `cd chat-client` or * `cd chat-client-mobile`
+* `cd chat-client` or `cd chat-client-mobile`
 
 * start: `npm start`
