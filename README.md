@@ -13,3 +13,7 @@
 * `cd chat-client` or `cd chat-client-mobile`
 
 * start: `npm start`
+
+## Server deploed on HEROKU
+
+https://shielded-lake-66352.herokuapp.com/
